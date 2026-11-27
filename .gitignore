@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.venv/
+__pycache__/
+*.pyc
+backend/data/talentiq.db
+backend/data/uploads/
+backend/data/.secret_key
+.env
+
+.env.*
+!.env.example
+*.log
+.tmp-upload.ts
+
+data/
